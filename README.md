@@ -286,4 +286,5 @@
 ### **나의 후기**
 <img src="https://user-images.githubusercontent.com/109054093/202394009-45d290ff-dd18-4708-9489-174ac98ca7f4.png">
 
-
+### **장바구니 결제 시연영상 **
+https://www.youtube.com/watch?v=Qh8LwwUh2FY
